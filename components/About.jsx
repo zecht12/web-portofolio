@@ -6,7 +6,7 @@ const About = () => {
   return (
     <div>
     <div id='about' className='w-full md:h-screen text-center bg-orange-500'>
-        <div className='max-w-[800px] h-screen pt-44 text-black m-auto md:grid-cols-3 gap-8'>
+        <div className='max-w-[800px] h-auto px-12 pt-44 pb-12 text-black m-auto md:grid-cols-3 gap-8'>
             <div className='col-span-2'>
             <p className='text-slate-200 text-lg'>ABOUT ME</p>
             <p className='text-4xl p-3'>WHO AM I?</p>
